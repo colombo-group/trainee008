@@ -20,7 +20,7 @@ Bài thực tập số 8
 Các bạn thực tập đã làm xong 7 yêu cầu trước.
 
 # Yêu cầu
-
+**Chú ý: sau khi sửa lại các bài để đáp ứng yêu cầu `trainee008`, bài làm phải được push lại đúng repo tương ứng. Hoặc phát triển tiếp code cũ/clone code từ git về và làm tiếp**
 + *Bước 1:* Thực hiện tạo release cho các repo bài làm cho yêu cầu trainee001->trainee007
 + *Bước 2:* Làm tiếp các bài làm cho yêu cầu trainee001->trainee007 với yêu cầu tương ứng như sau:
  + Bài `trainee001`, `trainee002` : sử dụng bootstrap, *(Các mentor chú ý hướng dẫn để các bạn thực tập hoàn thiện ở mức cao hơn)*
